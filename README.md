@@ -99,3 +99,59 @@ Indicadores: P/L, ROE, volatilidade, beta
 Estrutura do sistema financeiro (BACEN, CVM, B3, etc.)
 
 Tendências: Pix, Open Finance, Criptomoedas
+
+
+
+------------------------------------------------------------------------------------------------
+
+📋 Certificados Recomendados para Tecnologia no Mercado Financeiro
+1️⃣ Programação e Análise de Dados
+Certificado	Plataforma / Instituição	Observação
+Python para Data Science / Finanças	Data Science Academy (DSA)	Muito focado no mercado financeiro; uso de pandas, yfinance, análise financeira
+Python Data Science (Coursera – IBM ou Google)	Coursera	Certificado reconhecido, curso completo
+SQL para Análise de Dados	Mode Analytics / DataCamp	Ferramenta essencial para bancos e fintechs
+Microsoft Certified: Data Analyst Associate (Power BI) – PL-300	Microsoft Learn	Certificação oficial Microsoft para Power BI
+2️⃣ Business Intelligence e Visualização
+Certificado	Plataforma / Instituição	Observação
+Microsoft Certified: Data Analyst Associate (Power BI) – PL-300	Microsoft Learn	Certificação oficial e bastante valorizada
+Power BI Experience (curso + certificado)	powerbiexperience.com	Curso focado no mercado brasileiro e cases financeiros
+3️⃣ Cloud Computing (fundamentos para fintechs e bancos)
+Certificado	Plataforma / Instituição	Observação
+AWS Certified Cloud Practitioner	AWS	Certificação oficial AWS; porta de entrada para cloud computing
+Microsoft Azure Fundamentals (AZ-900)	Microsoft	Alternativa à AWS; uso crescente no mercado financeiro
+4️⃣ Fundamentos e Regulamentação Financeira
+Certificado	Plataforma / Instituição	Observação
+Fundamentos do Mercado Financeiro	CVM (curso gratuito)	Ótimo para entender o funcionamento do sistema financeiro nacional
+LGPD e Segurança de Dados	Diversas plataformas (Alura, DIO, Coursera)	Importante para trabalhar com dados sensíveis
+5️⃣ Certificados Extras para Diferencial (Opcional)
+Certificado	Plataforma / Instituição	Observação
+Data Science Specialist (Coursera, IBM)	Coursera	Para quem quer aprofundar em ciência de dados e machine learning
+Introdução ao Trading Algorítmico (Udemy, Coursera)	Udemy, Coursera	Caso queira atuar com robôs e sistemas de trading
+Certificação CPA-20 (ANBIMA)	ANBIMA	Foco mais comercial, mas pode ajudar para entendimento financeiro
+🔗 Links úteis para começar
+
+AWS Certified Cloud Practitioner (grátis)
+
+Microsoft Power BI Data Analyst – PL-300
+
+Python para Data Science – Data Science Academy
+
+SQL Tutorial e Certificação Mode Analytics
+
+Fundamentos do Mercado Financeiro – CVM
+
+[LGPD para Iniciantes – Alura / Coursera / DIO] (procure conforme sua plataforma preferida)
+
+🎯 Recomendo começar por:
+
+Python para Data Science/Finanças (DSA ou Coursera)
+
+SQL (Mode ou DataCamp)
+
+Power BI (Microsoft PL-300 ou Power BI Experience)
+
+AWS Cloud Practitioner (AWS oficial)
+
+Fundamentos do Mercado Financeiro (CVM)
+
+LGPD (Alura ou DIO)
